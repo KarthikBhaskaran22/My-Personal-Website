@@ -48,7 +48,6 @@ hr {
 
 a{
   margin: 5px;
-  text-decoration: none;
 }
 
 .heading {
@@ -70,14 +69,17 @@ a{
 
 .linkedin:hover {
   color: #298cc2;
+  text-decoration: none;
 }
 
 .github:hover {
   color: #298cc2;
+  text-decoration: none;
 }
 
 .hackerrank:hover {
   color: #298cc2;
+  text-decoration: none;
 }
 
 .profile:hover {
